@@ -17,7 +17,9 @@ Compare weekday vs weekend performance.
 Tools Used:
 
 Microsoft Excel 
+
 Power BI 
+
 SQL
 
 
