@@ -20,7 +20,11 @@ SQL
 Dataset Files:
 
 dim_date: Date info (date, month, week no, day type)
+
 dim_hotels: Hotel details (ID, name, category, city)
+
 dim_rooms: Room types and classes
+
 fact_aggregated_bookings: Daily room-wise bookings and capacity
+
 fact_bookings: Customer-level bookings with status, revenue, ratings
